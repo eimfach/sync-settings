@@ -1,7 +1,7 @@
 {
   "name": "sync-settings-folder",
   "main": "./lib/sync-settings",
-  "version": "0.8.3",
+  "version": "0.9.0",
   "description": "Synchronize package settings, keymap and installed packages",
   "repository": {
     "type": "git",
