@@ -1,5 +1,5 @@
 {
-  "name": "sync-settings",
+  "name": "sync-settings-folder",
   "main": "./lib/sync-settings",
   "version": "0.8.3",
   "description": "Synchronize package settings, keymap and installed packages",
